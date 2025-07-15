@@ -126,8 +126,10 @@
 出口：Level 10
 
 - Level 10 - “丰裕”
-- 出口：Level 11，Level 10.1
-- Level 11 - “无垠城市”
+
+  出口：Level 11，Level 10.1
+
+  - Level 11 - “无垠城市”
 
 出口：Level 12,Level 1,Level 2，Level 3,Level 4,速切中点，“后室电台工作室”,“静室”,“卫生间”
 
@@ -148,8 +150,10 @@
 出口：Level 16
 
 - Level 16 - “地形转变”
-- 出口：Level 17
-- Level 17 - “航空母舰”
+
+ 出口：Level 17
+-
+-  Level 17 - “航空母舰”
 
 出口：Level 18
 
@@ -166,7 +170,9 @@
 出口：Level 21
 
 - Level 21 - “编号门
-- 出口：Level 22
+
+  出口：Level 22
+
 - Level 22 - “颓垣”
 
 出口：Level 23
@@ -200,13 +206,17 @@
 出口：Level 30,地铁
 
 - Level 30 - “超越现实”
-- 出口：Level 31
+
+ 出口：Level 31
+
 - Level 31 - “环形溜冰场”
 
 出口：Level 3,Level 32
 
 - Level 32 - “骷髅女皇之森”
-- 出口：Level 33
+
+出口：Level 33
+
 - Level 33 - “无尽购物体验”
 
 出口：Level 34
